@@ -4,7 +4,7 @@
 > app icon — was created using AI (Claude).
 
 A customizable auto clicker for Windows with an Alpha-Clicker-style layout and
-a Discord/Nitro-inspired theme customizer.
+a Discord/Nitro-inspired theme customizer. Alpha Autoclicker link: https://github.com/robiot/AlphaClicker
 
 ## Features
 
